@@ -1,5 +1,5 @@
 <?php 
-
+ 
     if(isset($_POST['submit'])){
         $createUser = new UsersController();
         $createUser->registe();
