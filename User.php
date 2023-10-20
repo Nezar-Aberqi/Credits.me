@@ -1,4 +1,4 @@
-<?php 
+<?php  
 
 class User{
   static public function login($data){
